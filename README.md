@@ -15,5 +15,5 @@ Train YOLOv5 model.
 3.  Bridging Knowledge Graphs to generate Scene Graphs :   [code](https://github.com/alirezazareian/gbnet)    |    [paper](https://arxiv.org/pdf/2001.02314.pdf)
 4.  Neural Motifs : https://github.com/rowanz/neural-motifs  
 5.  Scene Graph Generation, Compression, and Classification on Action Genome Dataset :  [Medium post](https://medium.com/stanford-cs224w/scene-graph-generation-compression-and-classification-on-action-genome-dataset-9f692a1d5394)   |   [Google Colab notebook](https://colab.research.google.com/drive/1XDJPsD7ziqbSg67WyEM0gUOa10gkpCNK#scrollTo=SWGbM1bsT_yk)
-6.  Graph RCNN for Scene Graphs : * [code](https://github.com/jwyang/graph-rcnn.pytorch)   |     [paper](https://arxiv.org/pdf/1808.00191.pdf)
+6.  Graph RCNN for Scene Graphs :   [code](https://github.com/jwyang/graph-rcnn.pytorch)   |     [paper](https://arxiv.org/pdf/1808.00191.pdf)
 7.  Papers with code [links](https://paperswithcode.com/sota/scene-graph-generation-on-visual-genome)

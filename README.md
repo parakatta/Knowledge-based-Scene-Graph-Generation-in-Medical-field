@@ -2,6 +2,8 @@
 
 ## Resources :
 
+Custom dataset : [google drive link](https://drive.google.com/drive/folders/16Voi2lJ_SD5RE-jgvfypnmbYw7c-FXy4?usp=share_link)
+
 ### Object detection
 1. [Faster RCNN Custom Model](https://github.com/sovit-123/fasterrcnn-pytorch-training-pipeline) |   [Google colab code](https://github.com/sovit-123/fasterrcnn-pytorch-training-pipeline/blob/main/notebook_examples/custom_faster_rcnn_training_colab.ipynb)
 Train custom dataset with this model.
